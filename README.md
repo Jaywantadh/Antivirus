@@ -73,6 +73,10 @@ python gui.py
    ./engine-rtm
    ```
 
+## Uploads
+You have to upload respective Images for Upload logos and Menu logos but you can
+always copy the images I have provided in repository.
+
 ## Project Structure
 
 - `gui.py`: The Python script for the graphical user interface.
